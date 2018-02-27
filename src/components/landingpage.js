@@ -10,7 +10,7 @@ class Landing extends Component {
             <img
               src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA1WAAAAJDA5ODhjNjRhLTlhYjYtNDcyYi04YWVjLTMxYTM1ZjAzNzRlYw.jpg"
               alt="avatar"
-              className="avatar-img"
+              className="img-fluid mb-3 rounded-circle"
             />
 
             <div className="banner-text">
